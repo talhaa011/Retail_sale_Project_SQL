@@ -2,7 +2,6 @@
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
-**Level**: Beginner  
 **Database**: `retail_sale_db`
 
 This project is designed to leverage PostgreSQL for data storage, exploration, and analysis. By utilizing SQL queries, we aim to clean, process, and extract valuable insights from the dataset. The findings are compiled into comprehensive reports to support data-driven decision-making.
